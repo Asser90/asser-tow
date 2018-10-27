@@ -1,7 +1,7 @@
 local currentlyTowedVehicle = nil
 
-RegisterNetEvent('pv:tow')
-AddEventHandler('pv:tow', function()
+RegisterNetEvent('asser:tow')
+AddEventHandler('asser:tow', function()
 	
 	local playerped = GetPlayerPed(-1)
 	local vehicle = GetVehiclePedIsIn(playerped, true)

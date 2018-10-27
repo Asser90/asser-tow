@@ -1,3 +1,3 @@
 RegisterCommand('tow', function(source, args)
-	TriggerClientEvent("pv:tow", source)
+	TriggerClientEvent("asser:tow", source)
 end, false)
