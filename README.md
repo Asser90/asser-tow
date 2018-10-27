@@ -6,7 +6,9 @@ The script as is only works using a flatbed. Changeing the flatbed model on your
 Please note that if the last vehicle you've used is not the flatbed truck you want to tow something on, then you wont be able to tow, and theres no distance built into the script yet, so it wont know if you are towing a vehicle 100ft away or just 10ft away. Either make it yourself or wait for an update ;)
 
 ## Installation:
-Extract pv-tow to resources folder.
+Clone the project or download the master.
+
+Add pv-tow to resources folder.
 
 Add “start pv-tow” to server.cfg
 
